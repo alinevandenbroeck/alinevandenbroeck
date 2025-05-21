@@ -2,7 +2,7 @@
 
 I am a PhD candidate in Health Policy & Administration with a background in Economics (MSc Ghent University, BSc Université Libre de Bruxelles). 
 
-##Research Interests
+## Research Interests
 
 I am passionate about advancing knowledge in Health Economics, Program Evaluation, Family Planning, Reproductive Health, and Migration. This website serves as a platform to share my academic work and engage with the broader research community.
 
