@@ -4,7 +4,7 @@ I am a PhD candidate in Health Policy & Administration with a background in Econ
 
 ## Research Interests
 
-I am passionate about advancing knowledge in Health Economics, Program Evaluation, Family Planning, Reproductive Health, and Migration. This website serves as a platform to share my academic work and engage with the broader research community.
+Health Economics, Program Evaluation, Family Planning, Reproductive Health, and Migration. 
 
 <!--
 **alinevandenbroeck/alinevandenbroeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
